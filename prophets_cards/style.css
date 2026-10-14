@@ -14,7 +14,9 @@ body{
     background-color: #008db1;
     border: 2px solid #004e63;
     border-radius: 20px;
-    margin: 0 auto;
+    margin: 100px 100px;
+    padding-block: 0px;
+    
 }
 .quote {
     color: #ffd783;
@@ -32,8 +34,8 @@ img {
 }
 ul {
     margin: 0 auto;
-    width: 500px;
-    padding:0;
+    display: block;
+    justify-self: center;
     /* do display instead*/
 }
 h1 {
